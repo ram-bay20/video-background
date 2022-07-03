@@ -73,7 +73,7 @@ a{
    opacity: 0.8;
 }
 .btn:hover{
-   transform: scale(0.9);
+   transform: scale(0.95);
 }
 #about{
    padding: 40px;
